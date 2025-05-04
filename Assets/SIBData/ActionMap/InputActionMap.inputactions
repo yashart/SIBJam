@@ -1,0 +1,34 @@
+{
+    "name": "InputActionMap",
+    "maps": [
+        {
+            "name": "Keyboard",
+            "id": "2973d4cc-cdd5-41ce-b660-a456b7c7dd51",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Value",
+                    "id": "0ecb7e01-c115-492f-a189-06290aee5d84",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e19c0654-dca1-49b7-93fe-d7b3b4026beb",
+                    "path": "<Keyboard>/q",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

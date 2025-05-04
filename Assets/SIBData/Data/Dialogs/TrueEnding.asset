@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e2363647e6ef24d937c7329910cc02, type: 3}
+  m_Name: TrueEnding
+  m_EditorClassIdentifier: 
+  characterName: "\u041C\u0430\u0442\u044C"
+  text: "\u041A\u0430\u043A\u043E\u0439 \u0442\u044B \u0443 \u043C\u0435\u043D\u044F
+    \u043C\u043E\u043B\u043E\u0434\u0435\u0446! \u0422\u0435\u043F\u0435\u0440\u044C
+    \u043C\u044B \u0441\u0434\u0435\u043B\u0430\u0435\u043C \u043E\u0442\u043B\u0438\u0447\u043D\u044B\u0439
+    \u043F\u0438\u0440\u043E\u0433."
+  textComment: 
+  leftSprite: {fileID: 0}
+  rightSprite: {fileID: 4274354838347296243, guid: 29277e6a7cb4c204098c26e0ad01521e, type: 3}
+  nextScene: {fileID: 6640146097837472841, guid: df8f1b79ec3b58345953a5741a4a15c4, type: 3}

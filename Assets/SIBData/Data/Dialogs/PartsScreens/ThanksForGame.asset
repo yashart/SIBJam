@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35e2363647e6ef24d937c7329910cc02, type: 3}
+  m_Name: ThanksForGame
+  m_EditorClassIdentifier: 
+  characterName: "\u0421\u043F\u0430\u0441\u0438\u0431\u043E \u0437\u0430 \u0438\u0433\u0440\u0443!"
+  text: "\u0418\u0433\u0440\u0430 \u043E\u0442 mr_mesmer \u0434\u043B\u044F SIBJam
+    2025. \u0422\u0435\u043C\u0430 - \u043A\u0438\u0431\u0435\u0440\u0441\u043A\u0430\u0437\u043A\u0430"
+  textComment: "IV. \u0412\u0441\u0435 \u0432\u043E\u043B\u0448\u0435\u0431\u043D\u044B\u0435
+    \u0441\u043A\u0430\u0437\u043A\u0438 \u043E\u0434\u043D\u043E\u0442\u0438\u043F\u043D\u044B
+    \u043F\u043E \u0441\u0432\u043E\u0435\u043C\u0443 \u0441\u0442\u0440\u043E\u0435\u043D\u0438\u044E\\n\u0412.
+    \u042F. \u041F\u0440\u043E\u043F\u043F, \"\u041C\u043E\u0440\u0444\u043E\u043B\u043E\u0433\u0438\u044F
+    \u0432\u043E\u043B\u0448\u0435\u0431\u043D\u043E\u0439 \u0441\u043A\u0430\u0437\u043A\u0438\""
+  leftSprite: {fileID: -4459219718798139780, guid: 28ae685266404514fb7a44aa1ff73d92, type: 3}
+  rightSprite: {fileID: 931482969617066387, guid: 42619eee63412b14ea7c585408745286, type: 3}
+  nextScene: {fileID: 6640146097837472841, guid: 79ddf4e7009f751478e4b6f75d4bddf2, type: 3}
